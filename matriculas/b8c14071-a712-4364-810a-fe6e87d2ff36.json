@@ -1,0 +1,60 @@
+{
+  "numero": "b8c14071-a712-4364-810a-fe6e87d2ff36",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 3,
+    "second": 20
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Daniela",
+    "apellido": "Garcia",
+    "cedula": "020103560456"
+  },
+  "curso": {
+    "titulo": "Fundamentos de Programacion",
+    "costo": 0.0
+  },
+  "promedio": 18.6,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 12
+      },
+      "valor": 17.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 19
+      },
+      "valor": 19.9,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 27
+      },
+      "valor": 18.9,
+      "unidad": "III"
+    }
+  ]
+}

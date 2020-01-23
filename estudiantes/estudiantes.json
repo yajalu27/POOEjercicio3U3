@@ -1,0 +1,102 @@
+[
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de Danza"
+    ],
+    "nombre": "Yajaira",
+    "apellido": "Lucas",
+    "cedula": "1722303938"
+  },
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de Futbol"
+    ],
+    "nombre": "Brandon",
+    "apellido": "Fonseca",
+    "cedula": "05781565024"
+  },
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de Basquet"
+    ],
+    "nombre": "Alex",
+    "apellido": "Alvarez",
+    "cedula": "05186505"
+  },
+  {
+    "carrera": "Ingenieria Mecatronica",
+    "clubes": [
+      "Club de Danza",
+      "Club de Periodismo",
+      "Club de Musica"
+    ],
+    "nombre": "Odalis",
+    "apellido": "Arias",
+    "cedula": "0504522045"
+  },
+  {
+    "carrera": "Ingenieria Electronica",
+    "clubes": [
+      "Club de Danza",
+      "Club de andinismo",
+      "Club de Basquet"
+    ],
+    "nombre": "Danny",
+    "apellido": "Vela",
+    "cedula": "0505257040"
+  },
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de Robotica"
+    ],
+    "nombre": "Steven",
+    "apellido": "Lema",
+    "cedula": "050147920"
+  },
+  {
+    "carrera": "Ingenieria Mecatronica",
+    "clubes": [
+      "Club de andinismo",
+      "Club de Periodismo"
+    ],
+    "nombre": "Michael",
+    "apellido": "Armendariz",
+    "cedula": "0498020450"
+  },
+  {
+    "carrera": "Ingenieria ElectroMecanica",
+    "clubes": [
+      "Club de Futbol"
+    ],
+    "nombre": "Wilson",
+    "apellido": "Lucas",
+    "cedula": "1722303946"
+  },
+  {
+    "carrera": "Ingenieria Electronica",
+    "clubes": [
+      "Club de Danza",
+      "Club de Futbol",
+      "Club de Musica",
+      "Club de Gimnasia"
+    ],
+    "nombre": "Daniela",
+    "apellido": "Garcia",
+    "cedula": "020103560456"
+  },
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de andinismo",
+      "Club de Basquet",
+      "Club de Gimnasia"
+    ],
+    "nombre": "Adriana",
+    "apellido": "Vargas de Panchi",
+    "cedula": "04087121"
+  }
+]

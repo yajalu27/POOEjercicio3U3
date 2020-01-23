@@ -1,0 +1,60 @@
+{
+  "numero": "7ca16c0c-8e19-473b-afe8-1caebd00f43a",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 35,
+    "second": 32
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Brandon",
+    "apellido": "Fonseca",
+    "cedula": "05781565024"
+  },
+  "curso": {
+    "titulo": "Calculo Diferencial e Integral",
+    "costo": 0.0
+  },
+  "promedio": 16.133333,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 36,
+        "second": 57
+      },
+      "valor": 17.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 37,
+        "second": 7
+      },
+      "valor": 18.5,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 37,
+        "second": 18
+      },
+      "valor": 12.9,
+      "unidad": "III"
+    }
+  ]
+}

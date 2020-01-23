@@ -1,0 +1,60 @@
+{
+  "numero": "7e2c5fd1-a6ec-4dfb-8703-0612b80ed2c7",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 35,
+    "second": 50
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Odalis",
+    "apellido": "Arias",
+    "cedula": "0504522045"
+  },
+  "curso": {
+    "titulo": "Fundamentos de Programacion",
+    "costo": 0.0
+  },
+  "promedio": 16.936666,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 37,
+        "second": 39
+      },
+      "valor": 12.9,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 37,
+        "second": 46
+      },
+      "valor": 19.9,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 37,
+        "second": 55
+      },
+      "valor": 18.01,
+      "unidad": "III"
+    }
+  ]
+}

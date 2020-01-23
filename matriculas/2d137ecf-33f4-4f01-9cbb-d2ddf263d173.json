@@ -1,0 +1,60 @@
+{
+  "numero": "2d137ecf-33f4-4f01-9cbb-d2ddf263d173",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 35,
+    "second": 41
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Alex",
+    "apellido": "Alvarez",
+    "cedula": "05186505"
+  },
+  "curso": {
+    "titulo": "Tecnicas de Investigacion ",
+    "costo": 0.0
+  },
+  "promedio": 18.666666,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 36,
+        "second": 24
+      },
+      "valor": 20.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 36,
+        "second": 31
+      },
+      "valor": 19.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 36,
+        "second": 39
+      },
+      "valor": 17.0,
+      "unidad": "III"
+    }
+  ]
+}

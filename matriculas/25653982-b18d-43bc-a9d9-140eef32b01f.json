@@ -1,0 +1,60 @@
+{
+  "numero": "25653982-b18d-43bc-a9d9-140eef32b01f",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 56,
+    "second": 9
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Danny",
+    "apellido": "Vela",
+    "cedula": "0505257040"
+  },
+  "curso": {
+    "titulo": "Fisica Fundamental",
+    "costo": 0.0
+  },
+  "promedio": 11.373334,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 58,
+        "second": 44
+      },
+      "valor": 14.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 59,
+        "second": 0
+      },
+      "valor": 5.1,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 59,
+        "second": 11
+      },
+      "valor": 15.02,
+      "unidad": "III"
+    }
+  ]
+}

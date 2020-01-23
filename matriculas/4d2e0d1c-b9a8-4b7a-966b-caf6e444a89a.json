@@ -1,0 +1,60 @@
+{
+  "numero": "4d2e0d1c-b9a8-4b7a-966b-caf6e444a89a",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 3,
+    "second": 31
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Adriana",
+    "apellido": "Vargas de Panchi",
+    "cedula": "04087121"
+  },
+  "curso": {
+    "titulo": "Algebra Lineal",
+    "costo": 0.0
+  },
+  "promedio": 12.686667,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 7,
+        "second": 19
+      },
+      "valor": 17.02,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 7,
+        "second": 25
+      },
+      "valor": 11.02,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 7,
+        "second": 32
+      },
+      "valor": 10.02,
+      "unidad": "III"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "numero": "deccacb5-219b-4abf-93fa-3d2f89931eb4",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 35,
+    "second": 25
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Yajaira",
+    "apellido": "Lucas",
+    "cedula": "1722303938"
+  },
+  "curso": {
+    "titulo": "Programacion Orientadad a Objetos",
+    "costo": 0.0
+  },
+  "promedio": 17.543333,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 38,
+        "second": 24
+      },
+      "valor": 18.01,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 38,
+        "second": 34
+      },
+      "valor": 19.02,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 38,
+        "second": 46
+      },
+      "valor": 15.6,
+      "unidad": "III"
+    }
+  ]
+}

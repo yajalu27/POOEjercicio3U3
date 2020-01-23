@@ -1,0 +1,60 @@
+{
+  "numero": "420d517f-4cde-4e9d-818e-4d0ae049939c",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 55,
+    "second": 59
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Steven",
+    "apellido": "Lema",
+    "cedula": "050147920"
+  },
+  "curso": {
+    "titulo": "Algebra Lineal",
+    "costo": 0.0
+  },
+  "promedio": 12.0,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 57,
+        "second": 6
+      },
+      "valor": 10.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 57,
+        "second": 17
+      },
+      "valor": 11.5,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 57,
+        "second": 28
+      },
+      "valor": 14.5,
+      "unidad": "III"
+    }
+  ]
+}

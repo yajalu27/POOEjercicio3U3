@@ -1,0 +1,60 @@
+{
+  "numero": "7d32d6ed-ad22-4467-8ca4-190ed3d130ea",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 3,
+    "second": 0
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Michael",
+    "apellido": "Armendariz",
+    "cedula": "0498020450"
+  },
+  "curso": {
+    "titulo": "Fisica Clasica",
+    "costo": 0.0
+  },
+  "promedio": 15.34,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 6,
+        "second": 29
+      },
+      "valor": 18.9,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 6,
+        "second": 38
+      },
+      "valor": 10.1,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 6,
+        "second": 48
+      },
+      "valor": 17.02,
+      "unidad": "III"
+    }
+  ]
+}
